@@ -4,8 +4,8 @@
 # [Airbnb Machine Learning Classification](https://github.com/amontes27/Airbnb_ML_Classification)
 A Python machine learning model that predicts whether Chicago Airbnb listings are above or below the median review score
 - Collaborated with 3 classmates to visualize, clean, and model the data and develop a report detailing our process and findings
- - Performed feature engineering and selection based on exploratory data analysis and model feature importances
- - Tuned a variety of machine learning models (bagging, random forest, boosting) to construct a hard voting ensemble model that maximized accuracy (76.5%) and precision (73.8%) scores on test data
+- Performed feature engineering and selection based on exploratory data analysis and model feature importances
+- Tuned a variety of machine learning models (bagging, random forest, boosting) to construct a hard voting ensemble model that maximized accuracy (76.5%) and precision (73.8%) scores on test data
  
  
 # [Bank Loan Repayment Competitions](https://github.com/amontes27/Loan_Competition)
