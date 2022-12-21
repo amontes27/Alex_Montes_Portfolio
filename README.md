@@ -16,5 +16,5 @@ Submissions to 2 Kaggle competitions using Python machine learning models to pre
 # [F1 Data Visualization](https://github.com/amontes27/F1_Data_Visualization)
 Plots and a poster presentation created in R that tell the story of a Formula 1 dataset
 - Filtered, joined, and manipulated the data to generate insights
-- Utilized the ggplot2 package to create bar, box, and line plots based on the analysis
+- Utilized the ggplot2 package to create bar, box, scatter, and line plots based on the analysis
 - Designed a poster presentation using the posterdown package to display plots alongside further analysis and background information
