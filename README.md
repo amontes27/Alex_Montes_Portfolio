@@ -7,11 +7,13 @@ A Python machine learning model that predicts whether Chicago Airbnb listings ar
  - Performed feature engineering and selection based on exploratory data analysis and model feature importances
  - Tuned a variety of machine learning models (bagging, random forest, boosting) to construct a hard voting ensemble model that maximized accuracy (76.5%) and precision (73.8%) scores on test data
  
+ 
 # [Bank Loan Repayment Competitions](https://github.com/amontes27/Loan_Competition)
 Submissions to 2 Kaggle competitions using Python machine learning models to predict and classify bank loan repayments
 - Performed feature engineering and selection using summary statistics, visualizations, and model feature importances
 - Tuned MARS, decision tree, and boosted models to generate regression and classification ensembles
 - Placed 12th and 34th of 178 participants in the regression and classification components, respectively
+
 
 # [F1 Data Visualization](https://github.com/amontes27/F1_Data_Visualization)
 Plots and a poster presentation created in R that tell the story of a Formula 1 dataset
