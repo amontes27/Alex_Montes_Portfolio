@@ -1,5 +1,3 @@
-# [GitHub Profile](https://github.com/amontes27)
-
 # [Airbnb Machine Learning Classification](https://github.com/amontes27/Airbnb_ML_Classification)
 A Python machine learning model that predicts whether Chicago Airbnb listings are above or below the median review score
 - Collaborated with 3 classmates to visualize, clean, and model the data and develop a report detailing our process and findings
@@ -19,3 +17,6 @@ Plots and a poster presentation created in R that tell the story of a Formula 1 
 - Filtered, joined, and manipulated the data to generate insights
 - Utilized the ggplot2 package to create bar, box, scatter, and line plots based on the analysis
 - Designed a poster presentation using the posterdown package to display plots alongside further analysis and background information
+
+---
+### [GitHub Profile](https://github.com/amontes27)
