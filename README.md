@@ -1,5 +1,4 @@
-# Alex Montes Portfolio
-**Highlights of completed data science projects and competitions**
+# [GitHub Profile](https://github.com/amontes27)
 
 # [Airbnb Machine Learning Classification](https://github.com/amontes27/Airbnb_ML_Classification)
 A Python machine learning model that predicts whether Chicago Airbnb listings are above or below the median review score
